@@ -1,0 +1,28 @@
+body
+{
+  color: white;
+  background: rgb(45,3,75);
+background: linear-gradient(0deg, rgba(45,3,75,1) 0%, rgba(137,47,180,1) 20%, rgba(228,172,255,1) 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px ridge white;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
